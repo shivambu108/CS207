@@ -9,7 +9,7 @@
 - [Building the Project](#building-the-project)
 - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Authors and Contributions](#authors-and-contributions)
+- [Author](#author)
 
 ## Overview
 
